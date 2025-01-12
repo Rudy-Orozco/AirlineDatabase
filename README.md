@@ -7,5 +7,5 @@ This repository holds my Database project created during the spring semester of 
 
 The project contains a total of 10 queries that simulate different requests from the user using a standalone CLI. 
 
-This is one of my favorite projects with because of how I find databasing interesting and the potential projects I can do with this! In future plans, I want to make a little UI graphic seeing live time flights coming in and out using this database and several APIs.
+Despite this being a course project, this is one of my favorite projects I have done. We were given a lot of freedom on what we can make for our project, and I wanted to create something im passionate about which is aviation! I got hands on how to create schemas, using relational algebra, and then making queries that work made me really satisfied with my work! In the far future, I want to make a little UI graphic seeing live time flights coming in and out using this database and several APIs.
 Hopefully to start on that soon once im done with my Senior Design Project!
